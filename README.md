@@ -1,4 +1,4 @@
-# Plot-it-...but-plot-it-well-MATLAB-
+# Plot it,...but plot it well! (MATLAB)
 
 Fix the horrible default MATLAB figures/graphs/plots easily! Ideal if you are looking for a good plot fast and easily or publication quality figures.
 
