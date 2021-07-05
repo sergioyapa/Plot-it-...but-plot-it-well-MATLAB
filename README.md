@@ -22,6 +22,9 @@ How to install these files:
 4. Once downloaded, copy this script file to the MATLAB parent directory. On Windows, this is typically: C:\Users\YourUserName\Documents\MATLAB
 5. That's it! You should be able to use "butplotwell" and get great graphs! :)
 
+![butplotwell_fig](https://user-images.githubusercontent.com/26829946/124506333-43530a00-dd80-11eb-9fc0-fb11eb05a8c6.png)
+
+
 Exporting figure:
 
 * I strongly suggest using "export_fig" for exporting any of your figures (https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig?s_tid=srchtitle)
