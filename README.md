@@ -1,2 +1,2 @@
 # Plot-it-...but-plot-it-well-MATLAB-
-Fix your horrible default MATLAB plot easily
+Fix the horrible default MATLAB plot easily
